@@ -1,0 +1,8 @@
+int lo1
+desc Descrition set with Netmiko 
+ip add 1.1.1.1 255.255.255.0
+
+int g0/1
+no sh
+desc Descrition set with Netmiko
+ip add 2.2.2.2 255.255.255.0 
