@@ -1,5 +1,5 @@
 # Network_Operations
-Network Operations such as to configure a device, check ping connectivity and take backup of startup configurations
+The script is designed to performs multilpe Network Operations such as to configure a device, check ping connectivity and take backup of startup configurations
 
     Instructions to use
      * Provide the configuration commands into cmd_file.txt
